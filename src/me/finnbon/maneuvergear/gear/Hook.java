@@ -133,7 +133,7 @@ class Hook {
                 origin.subtract(x * i, y * i, z * i);
                 return false;
             }
-            Particle.DustOptions options = new Particle.DustOptions(Color.fromRGB(255, 128, 0), 1);
+            Particle.DustOptions options = new Particle.DustOptions(Color.fromRGB(105, 105, 105), 1);
             origin.getWorld().spawnParticle(Particle.REDSTONE, origin, 0, 0.549019608F, 0.549019608F, 0.549019608F, options);
 
             origin.subtract(x * i, y * i, z * i);
