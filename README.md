@@ -1,5 +1,8 @@
 # Finnbon-3DManeuverGear
-Update of the Finn Bon plugin : https://github.com/FinnBueno/3-Dimensional-Maneuver-Gear
+Update of the Finn Bon plugin 
+* Original git repositorie : https://github.com/FinnBueno/3-Dimensional-Maneuver-Gear
+* Original spigot ressource : https://www.spigotmc.org/resources/3d-maneuver-gear-attack-on-titan.30608/
+* Updated spigot ressource : 
 
 # 3 Dimensional Maneuver Gear
 
