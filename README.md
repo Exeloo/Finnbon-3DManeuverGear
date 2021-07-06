@@ -16,7 +16,11 @@ To get a copy of this project on your system, simply fork, clone, download it. W
 
 This plugin was designed for [Spigot](https://www.spigotmc.org). It's currently known to work for the following versions:
 
+ * 1.13.*
+ * 1.14.*
+ * 1.15.*
  * 1.16.*
+ * 1.17.*
 
 ### Installing
 
