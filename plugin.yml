@@ -1,9 +1,9 @@
 name: 3DManeuverGear
 author: finnbon AKA Finn_Bueno_
-version: 1.6
+version: 1.7
 description: Swing across the skies using 3DMG!
 main: me.finnbon.maneuvergear.ManeuverGear
-api-version: 1.16
+api-version: 1.13
 permissions:
   3dmg.use:
     description: Decides if a player can use the 3DMG.

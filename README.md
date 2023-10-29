@@ -21,6 +21,9 @@ This plugin was designed for [Spigot](https://www.spigotmc.org). It's currently 
  * 1.15.*
  * 1.16.*
  * 1.17.*
+ * 1.18.*
+ * 1.19.*
+ * 1.20.*
 
 ### Installing
 
